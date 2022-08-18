@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Tobermory
 
-I am a software engineer from Brighton, England. I live and work in Seattle, USA. For my day job, I write code for what you might call underwater drones.
+I am a software engineer from [Brighton](https://en.wikipedia.org/wiki/Brighton). I studied at [Southampton](https://www.southampton.ac.uk). I now live and work in [Seattle](https://www.seattletimes.com/). For my day job, I write code for what you might call underwater drones. Oh, and I support the [Albion](https://www.brightonandhovealbion.com/).
 
 ## Systems I Build
 
@@ -44,6 +44,8 @@ Oceanographic instruments, such as gliders and floats (we don't actually call th
 - TCP/IP
 - HTTP
 - IMAP
+- I2C
+- RS232/485
 
 ## Technologies Of Choice
 - Unix
