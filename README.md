@@ -65,3 +65,13 @@ I have managed to open source various bits and pieces over the years
 - [Cryptography - A filesystem based on one-time pads](https://github.com/UW-APL-EIS/vernamfs) 
 - [Networking - Observing TCP data flow](https://github.com/UW-APL-EIS/tcptee)
 - [Embedded Systems - Capturing fault dumps on ARM Cortex M](https://github.com/tobermory/faultHandling-cortex-m)
+
+## Elsewhere Online
+I follow, and have contributed to, various products, blogs and forums.  These include
+
+- [Embedded CPUs - Silicon Labs](https://silabs.com/community/mcu/32-bit/forum)
+- [Embedded Systems - CMSIS](https://github.com/ARM-software/CMSIS_5/issues
+- [Real-time Operating Systems - Keil Forum](https://www.keil.com/forum/)
+- [Embedded Systems - Memfault Blog](https://interrupt.memfault.com/blog/
+- [Software Engineering - General[(https://stackoverflow.com/)
+
