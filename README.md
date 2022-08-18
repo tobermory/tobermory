@@ -34,10 +34,12 @@ Oceanographic instruments, such as gliders and floats (we don't actually call th
 - Real-time Operating Systems
 - Network Programming (sockets)
 - Iridium Sat Comms (SBD and Dial-up)
+- Underwater Acoustic Communications
 - Cryptography (AES, RSA, Stream ciphers, One-time pads)
 - Data compression 
 - Data visualization (JFreeChart)
 - Simulations/Models
+- Geospatial (Maps, Projections)
 
 ## Protocols I Have Used
 
@@ -57,8 +59,8 @@ Oceanographic instruments, such as gliders and floats (we don't actually call th
 ## Also Dabbled With
 - C++
 - ARM Cortex M Assembler
-- Reverse Engineering
-- Code Generation (Antlr Grammars)
+- Reverse Engineering (HexRays, IDA)
+- Parsers and Code Generation (Antlr, lex+yacc)
 - cron
 
 ## On GitHub
