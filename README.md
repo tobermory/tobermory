@@ -24,7 +24,7 @@ I am a software engineer from [Brighton](https://en.wikipedia.org/wiki/Brighton)
 Oceanographic instruments, such as gliders and floats (we don't actually call them drones), have to
 - move up and down in the world's oceans
 - collect data from various sensors
-- at the surface, get GPS and beam data home using Iridium sat comms
+- at the surface, beam data home using Iridium sat comms
 - download further commands for continued operation
 - do all the above for years on a single battery pack
 
