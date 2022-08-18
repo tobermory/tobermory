@@ -76,6 +76,6 @@ I follow, and have contributed to, various products, blogs and forums.  These in
 - [Embedded CPUs - Silicon Labs](https://silabs.com/community/mcu/32-bit/forum)
 - [Embedded Systems - CMSIS](https://github.com/ARM-software/CMSIS_5/issues)
 - [Real-time Operating Systems - Keil Forum](https://www.keil.com/forum/)
-- [Embedded Systems - Memfault Blog](https://interrupt.memfault.com/blog/
+- [Embedded Systems - Memfault Blog](https://interrupt.memfault.com/blog/)
 - [Software Engineering - General[(https://stackoverflow.com/)
 
