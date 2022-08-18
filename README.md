@@ -32,7 +32,6 @@ Oceanographic instruments, such as gliders and floats (we don't actually call th
 
 - Embedded Systems Programming, aka Bare-Metal
 - Real-time Operating Systems
-- Network Programming (sockets)
 - Iridium Sat Comms (SBD and Dial-up)
 - Underwater Acoustic Communications
 - Cryptography (AES, RSA, Stream ciphers, One-time pads)
@@ -40,6 +39,7 @@ Oceanographic instruments, such as gliders and floats (we don't actually call th
 - Data visualization (JFreeChart)
 - Simulations/Models
 - Geospatial (Maps, Projections)
+- Network Programming (sockets)
 
 ## Protocols I Have Used
 
