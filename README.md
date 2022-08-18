@@ -41,6 +41,20 @@ Oceanographic instruments, such as gliders and floats (we don't actually call th
 - Geospatial (Maps, Projections)
 - Network Programming (sockets)
 
+## Programming Idioms I Have Invented Or Applied
+
+### Executive
+A time-ordered event queue, enabling time to be used as a file descriptor. Realizes a single-threaded concurrent programming model where a simple main loop can listen to I/O from many devices simultaneously while also servicing timed (esp I/O timeout) actions. Multi-threaded programming, just say no.
+
+### State Machines
+An API for structured conversations with (mostly serial/rs232) devices. Builds upon the Executive, adding regular expressions, resulting in a clean, powerful and verifiable method for device interfacing. We all draw state machines on the whiteboard. This API translates those diagrams directly into code.
+
+### Fragmentation/Assembly
+Applied the fragmentation/assembly technique in the IP protocol (OSI model layer 3) to both underwater data transfer using acoustic modems and to Iridium Short-Burst Data (SBD) data transfer. In both domains, the data to be sent (layers down to 4) is larger than can be handled by the data/physical layer (layer 2). 
+
+### Cron
+Used the crontab event scheduling syntax as the method by which pilots control data acquisition on remote, rarely-connected, systems. 
+
 ## Protocols I Have Used
 
 - TCP/IP
@@ -49,14 +63,14 @@ Oceanographic instruments, such as gliders and floats (we don't actually call th
 - I2C
 - RS232/485
 
-## Technologies Of Choice
+## Technologies I Prefer
 - Unix
 - C, Java, bash
 - regex
 - make, maven
 - git, semver
 
-## Also Dabbled With
+## Things I Have Also Dabbled With
 - C++
 - ARM Cortex M Assembler
 - Reverse Engineering (HexRays, IDA)
