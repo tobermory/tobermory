@@ -68,7 +68,7 @@ Used the crontab event scheduling syntax as the method by which pilots control d
 - Languages: C, Java, bash
 - Tools: regex
 - Build: make, maven
-- Versioning: git, semver
+- Versioning: git, [semver](https://semver.org/)
 
 ## Things I Have Also Dabbled With
 - C++
