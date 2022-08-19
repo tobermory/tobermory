@@ -64,11 +64,11 @@ Used the crontab event scheduling syntax as the method by which pilots control d
 - RS232/485
 
 ## Technologies I Prefer
-- Unix
-- C, Java, bash
-- regex
-- make, maven
-- git, semver
+- Environment: Unix
+- Languages: C, Java, bash
+- Tools: regex
+- Build: make, maven
+- Versioning: git, semver
 
 ## Things I Have Also Dabbled With
 - C++
