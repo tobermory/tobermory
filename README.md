@@ -57,7 +57,7 @@ Applied the fragmentation/assembly technique in the IP protocol (OSI model layer
 Used the crontab event scheduling syntax, along with a cron-like Executive loop, as the method by which pilots control data acquisition schedules on remote, rarely-connected, systems. 
 
 ### Script Runner
-Have a remotely-deployed system download and run an arbitrary script (bash, etc) via e.g. Iridium sat comms.  Capture the output via simple redirection and upload back to pilot.  The gateway to remote system administration, as it permits solutions to problems never anticipated to occur when the unit was deployed.
+Have a remotely-deployed system download and run an arbitrary script (bash, etc) via e.g. Iridium sat comms.  Capture the output via simple redirection and upload back to pilot.  The gateway to remote system administration, as it permits solutions to problems never anticipated to occur when the unit was deployed. Have saved some very complex (read expensive) instruments with this.
 
 ## Protocols I Have Used
 
