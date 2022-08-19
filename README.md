@@ -67,7 +67,7 @@ Used the crontab event scheduling syntax as the method by which pilots control d
 ## Technologies I Prefer
 - Environment: Unix
 - Languages: C, Java, bash
-- Tools: regex
+- Tools: regex, pseudo-terminals
 - Build: make, maven
 - Versioning: git, [semver](https://semver.org/)
 
