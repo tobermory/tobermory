@@ -54,7 +54,10 @@ An API for structured conversations with (mostly serial/rs232) devices. Builds u
 Applied the fragmentation/assembly technique in the IP protocol (OSI model layer 3) to both underwater data transfer using acoustic modems and to Iridium Short-Burst Data (SBD) data transfer. In both domains, the data to be sent (layers down to 4) is larger than can be handled by the data/physical layer (layer 2). 
 
 ### Cron
-Used the crontab event scheduling syntax as the method by which pilots control data acquisition on remote, rarely-connected, systems. 
+Used the crontab event scheduling syntax, along with a cron-like Executive loop, as the method by which pilots control data acquisition schedules on remote, rarely-connected, systems. 
+
+### Script Runner
+Have a remotely-deployed system download and run an arbitrary script (bash, etc) via e.g. Iridium sat comms.  Capture the output via simple redirection and upload back to pilot.  The gateway to remote system administration, as it permits solutions to problems never anticipated to occur when the unit was deployed.
 
 ## Protocols I Have Used
 
