@@ -32,14 +32,15 @@ Oceanographic instruments, such as gliders and floats (we don't actually call th
 
 - Embedded Systems Programming, aka Bare-Metal
 - Real-time Operating Systems
-- Iridium Sat Comms (SBD and Dial-up)
-- Underwater Acoustic Communications
+- Iridium Sat Comms (both Short-Burst Data and Dial-up/RUDICS)
+- Underwater Communications (Acoustic modems)
 - Cryptography (AES, RSA, Stream ciphers, One-time pads)
-- Data compression 
+- Concurrent Programming (Unix, IPC)
 - Data visualization (JFreeChart)
-- Simulations/Models
 - Geospatial (Maps, Projections)
 - Network Programming (sockets)
+- Data compression 
+- Simulations/Models
 
 ## Programming Idioms I Have Invented Or Applied
 
