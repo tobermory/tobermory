@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 I am a software engineer from [Brighton](https://en.wikipedia.org/wiki/Brighton). I studied at [Southampton](https://www.southampton.ac.uk). I now live and work in [Seattle](https://www.seattletimes.com/). For my day job, I design, test and deploy code for what you might call underwater drones. Oh, and I support the [Albion](https://www.brightonandhovealbion.com/).
 
+The moniker? My granddad was from (Mull)[https://en.wikipedia.org/wiki/Isle_of_Mull].
+
 ## Systems I Build
 
 Oceanographic instruments, such as gliders and floats (we don't actually call them drones), have to
