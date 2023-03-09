@@ -45,7 +45,7 @@ Oceanographic instruments, such as gliders and floats (we don't actually call th
 ## Programming Idioms I Have Invented Or Applied
 
 ### Executive
-A time-ordered event queue, enabling time to be used as a file descriptor. Realizes a single-threaded concurrent programming model where a simple main loop can listen to I/O from many devices simultaneously while also servicing timed (esp I/O timeout) actions. Multi-threaded programming, just say no.
+A time-ordered event queue, enabling time to be used as a file descriptor. Realizes a single-threaded concurrent programming model where a simple main loop can listen to I/O from many devices simultaneously while also servicing timed (esp I/O timeout) actions. Multi-threaded programming, just say no. More on the Executive [here](https://github.com/tobermory/executive-glib).
 
 ### State Machines
 An API for structured conversations with (mostly serial/rs232) devices. Builds upon the Executive, adding regular expressions, resulting in a clean, powerful and verifiable method for device interfacing. We all draw state machines on the whiteboard. This API translates those diagrams directly into code.
