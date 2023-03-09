@@ -83,7 +83,7 @@ Have a remotely-deployed system download and run an arbitrary script (bash, etc)
 
 ## On GitHub
 I have managed to open source various bits and pieces over the years
-- [The Executive - Multiplexing I/O and Timed Actions](https://gitub.com/tobermory/executive-glib)
+- [The Executive - Multiplexing I/O and Timed Actions](https://github.com/tobermory/executive-glib)
 - [Real-time Operating Systems - Building the RTX RTOS using make/gcc](https://github.com/tobermory/RTX-make-gcc)
 - [Cryptography - A filesystem based on one-time pads](https://github.com/UW-APL-EIS/vernamfs) 
 - [Networking - Observing TCP data flow](https://github.com/UW-APL-EIS/tcptee)
